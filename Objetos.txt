@@ -1,0 +1,6 @@
+Fuselaje.
+Superficies de sustentación.
+Superficies de control.
+Grupo motopropulsor.
+Tren de aterrizaje.
+Instrumentos de control.
